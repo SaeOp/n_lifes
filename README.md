@@ -3,7 +3,7 @@
 (9 жизней по умолчанию)
 
 ## 📦 Установка
-1. Скачайте `n_lifes.jar` из [Releases](https://github.com/yourname/n_lifes/releases)
+1. Скачайте `n_lifes.jar` из [Releases](https://github.com/SaeOp/n_lifes/releases)
 
 ## 🧾 Команды
 
