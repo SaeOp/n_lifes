@@ -1,7 +1,7 @@
 ## n_lifes
 
 A Minecraft plugin that implements a limited respawn system (9 lives by default)
-** Supports Russian and English **
+Supports Russian and English
 ## 📦 Installation
 Download `n_lives.jar` from [Releases](https://github.com/yourname/n_lifes/releases)
 
